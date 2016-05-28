@@ -1,9 +1,8 @@
-# OMNA
 <p align="right">
 	<img src="http://openmobilealliance.org/wp-content/uploads/2012/11/LOGO_OMA_Large.jpg" width="250">
 </p>
-## LwM2M Register
-LightweightM2M Objects and Resources Register.
+## OMNA LwM2M Register
+This Register is administrated by **Open Mobile Alliance Name Authority** for the registration of LightweightM2M Objects and Resources.
 
 ### ObjectID Classes
 
