@@ -1,2 +1,57 @@
-# LwM2M_Register
+# LwM2M Register
 LightweightM2M Objects and Resources Register
+
+### ObjectID Classes
+
+The LightweightM2M Objects are registered according to the following ObjectsID classes:
+
+Category          | Object ID Range      |Description 
+:-----------------| :--------------------| :-----------------------------------------------------
+oma-label         | 0 – 1023             | Objects defined by the Open Mobile Alliance 
+reserved I        | 1024 – 2047          | Reserved for future use 
+ext-label         | 2048 – 10240         | Objects defined by a 3rd party SDO 
+x-label           | 10241 – 32768        | Objects defined by a vendor or individual such an object may be either private (no DDF or Specification made available) or public. These objects are optionally private, this is indicated at the time of submission. 
+
+### ResourceID Classes
+
+The LightweightM2M Resources are registered according to the following ResourcesID classes:
+
+Category          | Resource ID Range      |Description 
+:-----------------| :----------------------| :-----------------------------------------------------
+No allocated      | 0 - 2047               | Resources defined by the Object specification
+Reusable          | 2048 - 32768           | Registered by an Object Specification, with the Resource ID assigned by OMNA. Defined in any Object specification. Resources from thisResource ID range can be re-used in any Object
+Reserved          | 32769 -                | Range or Resource IDs reserved for future use
+
+## oma-label
+[LightWeightM2M v1.0 Specifications](http://member.openmobilealliance.org/ftp/public_documents/dm/LightweightM2M/)
+
+URN : ```urn:oma:lwm2m:oma:ObjectID```
+
+ObjectID  | Object Name                                  | Description
+:--------:| :------------------------------------------- | :------------------------------------------------
+0         | [LWM2M Security](http://www.openmobilealliance.org/tech/profiles/LWM2M_Security-v1_0.xml) | It provides the keying material of a LWM2M Client appropriate to access a specified LWM2M Server. One Object Instance SHOULD address a LWM2M Bootstrap Server. These LWM2M Object Resources MUST only be changed by a LWM2M Bootstrap Server or Bootstrap from Smartcardand MUST NOT be accessible by any other LWM2M Server.
+1         | [LWM2M Server](http://www.openmobilealliance.org/tech/profiles/LWM2M_Server-v1_0.xml) | It provides the data related to a LWM2M Server. A Bootstrap Server has no such an Object Instance associated to it.
+
+###Ext label - Objects Produced by 3rd Party SDOs
+URN : ```urn:oma:lwm2m:ext:ObjectID```
+
+ObjectID  | Object Name                  | Owner /Technical Specs                 | Description
+:--------:| :----------------------------| :------------------------------------- | :------------------------------------------------
+2048      | [CmdhPolicy]()               | [OneM2M](http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf) 
+2049      | [ActiveCmdhPolicy]()         | [OneM2M](http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf)
+
+### x-label - Objects Defined by Vendors or Individuals
+
+URN : ```urn:oma:lwm2m:x:ObjectID```
+
+ObjectID  | Object Name                         | Company / TS           | Description
+:--------:| :-----------------------------------| :--------------------- | :------------------------------------------------
+10241     | HostDeviceInfo                      | AT&T                   |  This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module
+10242     | [3-PhasePM](http://technical.openmobilealliance.org/tech/profiles/3-PhasePM.xml)                           | Odins                  | This Object provides the information to represent a generic 3-Phase Power Meter
+
+### Re-usable Resource ID Assigned by OMNA
+
+ResourceID  | Resource Name / DDF        | Owner / Technical Specs       | Description
+:--------:  | :--------------------------| :--------------------------- | :------------------------------------------------
+4000        | [ObjectInstanceHandle]()   | [IPSO Alliance]()            | The object link is used to refer an Instance of a given Object. An Object link value is composed of two concatenated 16-bits unsigned integers following the Network Byte Order convention. The Most Significant Halfword is an ObjectID, the Least Significant Hafword is an ObjectInstance ID.An Object Link referencing no Object Instance will contain the concatenation of 2 MAX-ID values (null link). 
+4001        | [ObjectVersion]()          | IPSO Alliance               | LWM2M Object versioning label.
