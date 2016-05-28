@@ -1,5 +1,9 @@
-# LwM2M Register
-LightweightM2M Objects and Resources Register
+# OMNA
+<p align="right">
+	<img src="http://openmobilealliance.org/wp-content/uploads/2012/11/LOGO_OMA_Large.jpg" width="250">
+</p>
+## LwM2M Register
+LightweightM2M Objects and Resources Register.
 
 ### ObjectID Classes
 
@@ -22,6 +26,8 @@ No allocated      | 0 - 2047               | Resources defined by the Object spe
 [Reusable](#re-usable-resource-id-assigned-by-omna)| 2048 - 32768           | Registered by an Object Specification, with the Resource ID assigned by OMNA. Defined in any Object specification. Resources from thisResource ID range can be re-used in any Object
 Reserved          | 32769 -                | Range or Resource IDs reserved for future use
 
+***
+***
 ## oma-label
 [LightWeightM2M v1.0 Specifications](http://member.openmobilealliance.org/ftp/public_documents/dm/LightweightM2M/)
 
@@ -29,16 +35,20 @@ URN : ```urn:oma:lwm2m:oma:ObjectID```
 
 ObjectID  | Object Name                                  | Description
 :--------:| :------------------------------------------- | :------------------------------------------------
-0         | [LWM2M Security](http://www.openmobilealliance.org/tech/profiles/LWM2M_Security-v1_0.xml) | It provides the keying material of a LWM2M Client appropriate to access a specified LWM2M Server. One Object Instance SHOULD address a LWM2M Bootstrap Server. These LWM2M Object Resources MUST only be changed by a LWM2M Bootstrap Server or Bootstrap from Smartcardand MUST NOT be accessible by any other LWM2M Server.
-1         | [LWM2M Server](http://www.openmobilealliance.org/tech/profiles/LWM2M_Server-v1_0.xml) | It provides the data related to a LWM2M Server. A Bootstrap Server has no such an Object Instance associated to it.
+0         | [LWM2M Security](http://www.openmobilealliance.org/tech/profiles/LWM2M_Security-v1_0.xml "xml file") | It provides the keying material of a LWM2M Client appropriate to access a specified LWM2M Server. One Object Instance SHOULD address a LWM2M Bootstrap Server. These LWM2M Object Resources MUST only be changed by a LWM2M Bootstrap Server or Bootstrap from Smartcardand MUST NOT be accessible by any other LWM2M Server.
+1         | [LWM2M Server](http://www.openmobilealliance.org/tech/profiles/LWM2M_Server-v1_0.xml "xml file") | It provides the data related to a LWM2M Server. A Bootstrap Server has no such an Object Instance associated to it.
+
+***
 
 ###Ext label - Objects Produced by 3rd Party SDOs
 URN : ```urn:oma:lwm2m:ext:ObjectID```
 
-ObjectID  | Object Name                  | Owner /Technical Specs                 | Description
-:--------:| :----------------------------| :------------------------------------- | :------------------------------------------------
-2048      | [CmdhPolicy]()               | [OneM2M](http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf) 
-2049      | [ActiveCmdhPolicy]()         | [OneM2M](http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf)
+ObjectID  | Object Name                             | Owner /Technical Specs                 | Description
+:--------:| :---------------------------------------| :------------------------------------- | :----------------------
+2048      | [CmdhPolicy]( "xml file")               | [OneM2M](http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf "TS doc") 
+2049      | [ActiveCmdhPolicy]( "xml file")         | [OneM2M](http://www.onem2m.org/images/files/deliverables/TS-0005-Management_Enablement_(OMA)-V1_0_1.pdf "TS doc")
+
+***
 
 ### x-label - Objects Defined by Vendors or Individuals
 
@@ -47,11 +57,14 @@ URN : ```urn:oma:lwm2m:x:ObjectID```
 ObjectID  | Object Name                         | Company / TS           | Description
 :--------:| :-----------------------------------| :--------------------- | :------------------------------------------------
 10241     | HostDeviceInfo                      | AT&T                   |  This LWM2M Object provides a range of host device related information which can be queried by the LWM2M Server. The host device is any integrated device with an embedded cellular radio module
-10242     | [3-PhasePM](http://technical.openmobilealliance.org/tech/profiles/3-PhasePM.xml)                           | Odins                  | This Object provides the information to represent a generic 3-Phase Power Meter
+10242     | [3-PhasePM](http://technical.openmobilealliance.org/tech/profiles/3-PhasePM.xml "xml file")                           | Odins                  | This Object provides the information to represent a generic 3-Phase Power Meter
+
+***
+***
 
 ### Re-usable Resource ID Assigned by OMNA
 
 ResourceID  | Resource Name / DDF        | Owner / Technical Specs       | Description
 :--------:  | :--------------------------| :--------------------------- | :------------------------------------------------
-4000        | [ObjectInstanceHandle]()   | [IPSO Alliance]()            | The object link is used to refer an Instance of a given Object. An Object link value is composed of two concatenated 16-bits unsigned integers following the Network Byte Order convention. The Most Significant Halfword is an ObjectID, the Least Significant Hafword is an ObjectInstance ID.An Object Link referencing no Object Instance will contain the concatenation of 2 MAX-ID values (null link). 
-4001        | [ObjectVersion]()          | IPSO Alliance               | LWM2M Object versioning label.
+4000        | [ObjectInstanceHandle]( "xml file")   | [IPSO Alliance]( "TS doc")            | The object link is used to refer an Instance of a given Object. An Object link value is composed of two concatenated 16-bits unsigned integers following the Network Byte Order convention. The Most Significant Halfword is an ObjectID, the Least Significant Hafword is an ObjectInstance ID.An Object Link referencing no Object Instance will contain the concatenation of 2 MAX-ID values (null link). 
+4001        | [ObjectVersion]( "xml file")          | [IPSO Alliance]( "TS doc")               | LWM2M Object versioning label.
