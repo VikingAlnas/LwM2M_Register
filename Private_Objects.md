@@ -1,4 +1,5 @@
-### x-label - Objects Defined by Vendors or Individuals
+### x-label - Objects Defined by Vendors or Individuals and Assigned by OMNA
+
 
 URN : ```urn:oma:lwm2m:x:ObjectID```
 
