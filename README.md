@@ -27,7 +27,7 @@ Reserved          | 32769 -                | Range or Resource IDs reserved for 
 
 ***
 ***
-## oma-label
+## Register
 [LightWeightM2M v1.0 Specifications](http://member.openmobilealliance.org/ftp/public_documents/dm/LightweightM2M/)
 
 URN : ```urn:oma:lwm2m:oma:ObjectID```
