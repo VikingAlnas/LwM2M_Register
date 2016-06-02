@@ -1,7 +1,7 @@
-### (x-label) Objects Defined by Vendors or Individuals
-[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [OMA Objects](OMA_Objects.md) | [Other SDO Objects](/Other_SDO_Objects.md) | [Private Objects](/Private_Objects.md) | [Reusable Resources](/Reusable_Resources.md) | [Register](/Register.md) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor)
+### Private Objects
+[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [OMA Objects](OMA_Objects.md) | [Other SDO Objects](/Other_SDO_Objects.md) | [Private Objects](/Private_Objects.md) | [Reusable Resources](/Reusable_Resources.md) | [Register](https://github.com/OpenMobileAlliance/LwM2M_Register#register) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor)
 
-This table contains Private Objects defined by companies or individuals.
+This table contains the objects defined by private individuals or companies. ```(x-label)```
 
 URN : ```urn:oma:lwm2m:x:ObjectID```
 
