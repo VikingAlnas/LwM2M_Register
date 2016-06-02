@@ -1,6 +1,3 @@
-<p align="right">
-	<img src="http://openmobilealliance.org/wp-content/uploads/2012/11/LOGO_OMA_Large.jpg" width="250">
-</p>
 ## OMA Objects
 This table contains the objects defined by Open Mobile Alliance as part of their specifications development; (oma-label)
 
