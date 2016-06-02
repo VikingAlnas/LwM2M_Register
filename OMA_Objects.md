@@ -2,10 +2,10 @@
 	<img src="http://openmobilealliance.org/wp-content/uploads/2012/11/LOGO_OMA_Large.jpg" width="250">
 </p>
 ## OMA Objects
-This table contains the objects defined by Open Mobile Alliance as part of their specifications development.
+This table contains the objects defined by Open Mobile Alliance as part of their specifications development; (oma-label)
 
-## oma-label
-[LightWeightM2M v1.0 Specifications](http://member.openmobilealliance.org/ftp/public_documents/dm/LightweightM2M/)
+* [wiki, Home](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki)
+* [LightWeightM2M v1.0 Specifications](http://member.openmobilealliance.org/ftp/public_documents/dm/LightweightM2M/)
 
 URN : ```urn:oma:lwm2m:oma:ObjectID```
 
