@@ -1,4 +1,4 @@
-### (x-label) Objects Defined by Vendors or Individuals and Assigned by OMNA
+### (x-label) Objects Defined by Vendors or Individuals
 [Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [OMA Objects](OMA_Objects.md) | [Other SDO Objects](/Other_SDO_Objects.md) | [Private Objects](/Private_Objects.md) | [Reusable Resources](/Reusable_Resources.md) | [Register](/README.md) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor)
 
 URN : ```urn:oma:lwm2m:x:ObjectID```
