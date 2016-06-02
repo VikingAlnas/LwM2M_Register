@@ -1,9 +1,9 @@
 ### Private Objects
 [Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [OMA Objects](OMA_Objects.md) | [Other SDO Objects](/Other_SDO_Objects.md) | [Private Objects](/Private_Objects.md) | [Reusable Resources](/Reusable_Resources.md) | [Register](https://github.com/OpenMobileAlliance/LwM2M_Register#register) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor)
 
-This table contains the objects defined by private individuals or companies. ```(x-label)```
+This table contains the objects defined by private individuals or companies.
 
-URN : ```urn:oma:lwm2m:x:ObjectID```
+URN : ```urn:oma:lwm2m:x:ObjectID``` | ```range (10,241 - 32,768)```
 
 ObjectID  | Object Name                         | Company / TS           | Description
 :---------| :-----------------------------------| :----------------------| :-----------------------------------------:
