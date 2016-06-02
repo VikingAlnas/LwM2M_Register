@@ -15,7 +15,7 @@ Category          | Object ID Range      |Description
 [OMA Objects](/OMA_Objects.md)         | 0 – 1023             | Objects defined by the Open Mobile Alliance 
 reserved I        | 1024 – 2047          | Reserved for future use 
 [Other SDO Objects](/Other_SDO_Objects.md)         | 2048 – 10240         | Objects defined by a 3rd party SDO, Standard Development Organizations. 
-[Private Objects](/Private_Objects.md)           | 10241 – 32768        | Objects defined by a vendor or individual such an object may be either private (no DDF or Specification made available) or public. These objects are optionally private, this is indicated at the time of submission. 
+[Private Objects](/Private_Objects.md)           | 10241 – 32768        | Objects defined by a vendor or individual such an object may be either private <br/> (no DDF or Specification made available) or public. These objects are optionally private, <br/> this is indicated at the time of submission. 
 
 ### ResourceID Classes
 
