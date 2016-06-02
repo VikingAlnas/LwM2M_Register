@@ -4,7 +4,7 @@
 [Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [OMA Objects](OMA_Objects.md) | [Other SDO Objects](/Other_SDO_Objects.md) | [Private Objects](/Private_Objects.md) | [Reusable Resources](/Reusable_Resources.md) | [Register](https://github.com/OpenMobileAlliance/LwM2M_Register#register) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor)
 
 ## OMNA LwM2M Register
-This Register is administrated by **Open Mobile Alliance Name Authority**, (OMNA) for the registration of LightweightM2M Objects and Resources.
+This Register is administrated by **Open Mobile Alliance Name Authority**, (OMNA), for the registration of LightweightM2M Objects and Resources.
 
 ### ObjectID Classes
 
