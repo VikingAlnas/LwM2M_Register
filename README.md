@@ -1,5 +1,6 @@
-<p align="right">
+<p>
 	<img src="http://openmobilealliance.org/wp-content/uploads/2012/11/LOGO_OMA_Large.jpg" width="250">
+	<img src="https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/images/lwm2m-register.png" width="600">
 </p>
 [Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [OMA Objects](OMA_Objects.md) | [Other SDO Objects](/Other_SDO_Objects.md) | [Private Objects](/Private_Objects.md) | [Reusable Resources](/Reusable_Resources.md) | [Register](https://github.com/OpenMobileAlliance/LwM2M_Register#register) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API]() | [Help](@jpradocueva) 
 
