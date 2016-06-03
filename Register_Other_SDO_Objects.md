@@ -1,4 +1,8 @@
 # How a SDO can register LwM2M with OMA.
+<p>
+	<img src="https://pbs.twimg.com/profile_images/461906120211062784/bJ84SApS.jpeg" width="50">
+</p>
+[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [View Objects](https://github.com/OpenMobileAlliance/LwM2M_Register#objectid-classes) | [View Resources](/Reusable_Resources.md) | [Register](https://github.com/OpenMobileAlliance/LwM2M_Register#register) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API]() | [Help]()
 
 * Create your LwM2M Object using the [LwM2M Editor Tool](http://devtoolkit.openmobilealliance.org/OEditor "Editor").
 * Create a Pull Request which contains: <br/> ``` Copy, past and complete the following markdown table in your pull request ```
