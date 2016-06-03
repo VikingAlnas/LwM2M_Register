@@ -5,6 +5,9 @@
 
 ## OMNA LwM2M Register
 This Register is administrated by **Open Mobile Alliance Name Authority**, (OMNA), for the registration of LightweightM2M Objects and Resources.
+* View [Objects](#objectid-classes).
+* View [Resources](#Resourcetid-classes).
+* Register [Objects/Resources](#register).
 
 ### ObjectID Classes
 
