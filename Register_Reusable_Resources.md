@@ -1,6 +1,6 @@
 # How to register a Reusable LwM2M Resource with OMA.
 
-* Create your LwM2M Resource using the [LwM2M Editor Tool](http://devtoolkit.openmobilealliance.org/OEditor "Editor"). Please use [```New Reource```](http://devtoolkit.openmobilealliance.org/OEditor/LWMOEdit) function.
+* Create your LwM2M Resource using the [LwM2M Editor Tool](http://devtoolkit.openmobilealliance.org/OEditor "Editor"). Please use [```New Resource```](http://devtoolkit.openmobilealliance.org/OEditor/LWMOEdit) function.
 * Create a Pull Request that contains: <br/> ``` Copy, past and complete the following markdown table in your pull request ```
 
 ````
@@ -9,8 +9,8 @@ Field Name              | Your Input
 Your Name:              |
 Your DSO or Company Name|
 Your email address      | 
-Resource Name             |
-Resource File Name         |
+Resource Name           |
+Resource File Name      |
 Short Object Description|
 ```
 
@@ -22,5 +22,5 @@ Short Object Description|
   * Allocate the ResourceID.
   * Let you know the outcome of your registration.
 
-If you have any problem during the registration process, please submitt your comments via [Issues](https://github.com/OpenMobileAlliance/LwM2M_Register/issues).
+If you have any problem during the registration process, please submitt your comments via [Issues](https://github.com/OpenMobileAlliance/LwM2M_Register/issues), or send an email to our ```helpdesk @ omaorg.org```.
   
