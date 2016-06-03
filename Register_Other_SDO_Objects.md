@@ -22,5 +22,5 @@ Short Object Description|
   * Allocate the ObjectID and update the URN field.
   * Let you know the outcome of your registration.
 
-If you have any problem during the registration process, please submitt your comments via [Issues](https://github.com/OpenMobileAlliance/LwM2M_Register/issues).
+If you have any problem during the registration process, please submitt your comments via [Issues](https://github.com/OpenMobileAlliance/LwM2M_Register/issues), or send an email to our ```helpdesk @ omaorg.org```.
   
