@@ -34,13 +34,13 @@ Reserved          | 32769 -                | Range or Resource IDs reserved for 
 * Objects in this range only can be registered by OMA Working Groups via OMA standards development process.
 * Refer to OMA Work Item creation.
 
-### Register Other SDO Object(s)
+### Register "Other SDO Object(s)"
 * Any Standard Development Organization, (SDO), can register Objects and Reusable Resources with OMA.
-* Click here.
+* Click [Register Other SDO Objects](/Register_Other_SDO_Objects.md)
 
 ### Register Private Object(s)
 * Under discussion.
 
 ### Register Reusable Resource(s)
 * Any Standard Development Organization, (SDO), can register common or reusable resources with OMA.
-* Click here.
+* Click [Register Reusable Resources](/Register_Reusable_Resources.md).
