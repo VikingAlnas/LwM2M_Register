@@ -3,7 +3,7 @@
 </p>
 ### Re-usable Resource ID Assigned by OMNA
 
-[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [View Objects](https://github.com/OpenMobileAlliance/LwM2M_Register#objectid-classes) | [View Resources](/Reusable_Resources.md) | [Register](https://github.com/OpenMobileAlliance/LwM2M_Register#register) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API]() | [Help]()
+[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [View Objects](https://github.com/OpenMobileAlliance/LwM2M_Register#objectid-classes) | [View Resources](/Reusable_Resources.md) | [Register](https://github.com/OpenMobileAlliance/LwM2M_Register#register) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/RESTful_API.md) | [Help]()
 
 This table contains the reusable Resources defined by Open Mobile Alliance, other SDO's, or private companies or individuals.  
 ```range: 2048 - 32,768)```
