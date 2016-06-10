@@ -2,7 +2,7 @@
 <p>
 	<img src="https://pbs.twimg.com/profile_images/461906120211062784/bJ84SApS.jpeg" width="50">
 </p>
-[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [View Objects](https://github.com/OpenMobileAlliance/LwM2M_Register#objectid-classes) | [View Resources](/Reusable_Resources.md) | [Register](https://github.com/OpenMobileAlliance/LwM2M_Register#register) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API]() | [Help]()
+[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [View Objects](https://github.com/OpenMobileAlliance/LwM2M_Register#objectid-classes) | [View Resources](/Reusable_Resources.md) | [Register](https://github.com/OpenMobileAlliance/LwM2M_Register#register) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/RESTful_API.md) | [Help]()
 
 This table contains the objects defined by Open Mobile Alliance as part of its specifications development. 
 
