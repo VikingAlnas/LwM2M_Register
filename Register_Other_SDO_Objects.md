@@ -20,7 +20,7 @@ Short Object Description|
 ```
 
 * Attached the XML output of the [LwM2M Editor Tool](http://devtoolkit.openmobilealliance.org/OEditor "Editor"). <br/>
-```**Note**: At the time of submitting the Pull Request the xml portion that describes the Object will be validated. If the validation fails, you will not be able to submit your pull request. Make sure that your Object has been created with the [LwM2M Editor Tool](http://devtoolkit.openmobilealliance.org/OEditor "Editor").```
+**Note**: ```At the time of submitting the Pull Request the xml portion that describes the Object will be validated. If the validation fails, you will not be able to submit your pull request. Make sure that your Object has been created with the``` [LwM2M Editor Tool](http://devtoolkit.openmobilealliance.org/OEditor "Editor").
 
 * Upon successfull submission of your Object, OMNA (Open Mobile Name Authority) will: <br/> ```Please allow 3 weeks to process your request.```
   * Check if your Object has already been registered.
