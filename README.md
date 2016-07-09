@@ -7,17 +7,14 @@
 ## OMNA LwM2M Register
 This Registry is administrated by **Open Mobile Alliance Name Authority**, (OMNA), for the registration of LightweightM2M Objects and Resources.
 
-Category                                | Operations
+Category                                    | Operations
 :------------------------------------------ | :------------------------
 Objects Produced by OMA                     | [View]() / [Register]()
-Objects Produced by 3rd Party SDOs          | [View]() / [[Register]()
-Objects Produced by Vendors or individuals  | [View]() / [[Register]()
-Resources Produced by 3rd Parties           | [View]() / [[Register]()
+Objects Produced by 3rd Party SDOs          | [View]() / [Register]()
+Objects Produced by Vendors or individuals  | [View]() / [Register]()
+Resources Produced by 3rd Parties           | [View]() / [Register]()
 
 
-* View [Objects](#objectid-classes).
-* View [Resources](#resourceid-classes).
-* Register [Objects/Resources](#register).
 
 ### ObjectID Classes
 
