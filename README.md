@@ -2,7 +2,7 @@
 	<img src="http://openmobilealliance.org/wp-content/uploads/2012/11/LOGO_OMA_Large.jpg" width="250">
 	<img src="https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/images/lwm2m-register.png" width="600">
 </p>
-[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [View Objects / Resources](OMA_Objects.md) | [Register: Objects](https://github.com/OpenMobileAlliance/LwM2M_Register#register) [Resources]() [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/RESTful_API.md) | [Help](helpdesk@omaorg.org) 
+[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [View Objects / Resources](OMA_Objects.md) | [Register: Objects](https://github.com/OpenMobileAlliance/LwM2M_Register#register) [/ Resources](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/Register_Reusable_Resources.md) [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/RESTful_API.md) | [Help](helpdesk@omaorg.org) 
 
 ## OMNA LwM2M Register
 This Register is administrated by **Open Mobile Alliance Name Authority**, (OMNA), for the registration of LightweightM2M Objects and Resources.
