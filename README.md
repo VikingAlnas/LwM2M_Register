@@ -5,7 +5,16 @@
 [Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [View Objects / Resources](OMA_Objects.md) | [Register: Objects](https://github.com/OpenMobileAlliance/LwM2M_Register#register) [/ Resources](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/Register_Reusable_Resources.md) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/RESTful_API.md) | [Help](helpdesk@omaorg.org) 
 
 ## OMNA LwM2M Register
-This Register is administrated by **Open Mobile Alliance Name Authority**, (OMNA), for the registration of LightweightM2M Objects and Resources.
+This Registry is administrated by **Open Mobile Alliance Name Authority**, (OMNA), for the registration of LightweightM2M Objects and Resources.
+
+Category                                | Operations
+:------------------------------------------ | :------------------------
+Objects Produced by OMA                     | [View]() / [Register]()
+Objects Produced by 3rd Party SDOs          | [View]() / [[Register]()
+Objects Produced by Vendors or individuals  | [View]() / [[Register]()
+Resources Produced by 3rd Parties           | [View]() / [[Register]()
+
+
 * View [Objects](#objectid-classes).
 * View [Resources](#resourceid-classes).
 * Register [Objects/Resources](#register).
