@@ -9,9 +9,9 @@ This Registry is administrated by **Open Mobile Alliance Name Authority**, (OMNA
 
 Category                                    | Operations
 :------------------------------------------ | :------------------------
-Objects Produced by OMA                     | [View]() / [Register]()
+Objects Produced by OMA                     | [View]() / --
 Objects Produced by 3rd Party SDOs          | [View]() / [Register]()
-Objects Produced by Vendors or individuals  | [View]() / [Register]()
+Objects Produced by Vendors or individuals  | [View]() / --
 Resources Produced by 3rd Parties           | [View]() / [Register]()
 
 
