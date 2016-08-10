@@ -3,7 +3,9 @@
 </p>
 # How a SDO can register LwM2M Objects with OMA.
 
-[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | [View Objects](https://github.com/OpenMobileAlliance/LwM2M_Register#objectid-classes) | [View Resources](/Reusable_Resources.md) | [Register](https://github.com/OpenMobileAlliance/LwM2M_Register#register) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/RESTful_API.md) | [Help]()
+[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | View: [Objects ](https://openmobilealliance.github.io/OMNA/LwM2M/LwM2MRegistry.html#lwm2mregistry-table) / [Resources](https://openmobilealliance.github.io/OMNA/LwM2M/LwM2MRegistry.html#resources) | Register: [Objects](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/Register_Other_SDO_Objects.md) [/ Resources](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/Register_Reusable_Resources.md) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/RESTful_API.md) | [Help](mailto:helpdesk@omaorg.org) 
+
+This page should be used by Standard Development Organizations (SDO) that would like to submit new LwM2M Objects to the OMA Registry (OMNA). The steps to follow up are: 
 
 * Create your LwM2M Object using the [LwM2M Editor Tool](http://devtoolkit.openmobilealliance.org/OEditor "Editor").
 * Create a Pull Request which contains: <br/> ``` Copy, past and complete the following markdown table in your pull request ```
