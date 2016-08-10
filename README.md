@@ -1,7 +1,7 @@
 <p>
 	<img src="http://openmobilealliance.org/wp-content/uploads/2012/11/LOGO_OMA_Large.jpg" width="250">
 </p>
-[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | View: [Objects ](https://openmobilealliance.github.io/OMNA/LwM2M/LwM2MRegistry.html#lwm2mregistry-table) / [Resources](https://openmobilealliance.github.io/OMNA/LwM2M/LwM2MRegistry.html#resources) | Register: [Objects](https://github.com/OpenMobileAlliance/LwM2M_Register#register) [/ Resources](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/Register_Reusable_Resources.md) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/RESTful_API.md) | [Help](helpdesk@omaorg.org) 
+[Readme](/README.md) | [wiki](https://github.com/OpenMobileAlliance/LwM2M_Register/wiki) | View: [Objects ](https://openmobilealliance.github.io/OMNA/LwM2M/LwM2MRegistry.html#lwm2mregistry-table) / [Resources](https://openmobilealliance.github.io/OMNA/LwM2M/LwM2MRegistry.html#resources) | Register: [Objects](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/Register_Other_SDO_Objects.md) [/ Resources](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/Register_Reusable_Resources.md) | [Editor](http://devtoolkit.openmobilealliance.org/OEditor) | [API](https://github.com/OpenMobileAlliance/LwM2M_Register/blob/master/RESTful_API.md) | [Help](mailto:helpdesk@omaorg.org) 
 
 ## OMNA LwM2M Register
 This Registry is administrated by **Open Mobile Alliance Name Authority**, (OMNA), for the registration of LightweightM2M Objects and Resources.
