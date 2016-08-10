@@ -8,10 +8,10 @@ This Registry is administrated by **Open Mobile Alliance Name Authority**, (OMNA
 
 Category                                    | Object ID Range | Operations                | Description
 :------------------------------------------ | :-------------- | :------------------------ | :--------------------
-Objects Produced by OMA                     | 0 - 1023         | [View]() / --             | Objects defined by the Open Mobile Alliance
+Objects Produced by OMA                     | 0 - 1023         | [View](https://openmobilealliance.github.io/OMNA/LwM2M/LwM2MRegistry.html) / --             | Objects defined by the Open Mobile Alliance
 Reserved                                    | 1024 – 2047     | -- / --                   | Reserved for future use.
-Objects Produced by 3rd Party SDOs          | 2048 – 10240    | [View]() / [Register](/Register_Other_SDO_Objects.md)             | Objects defined by a 3rd party SDO, Standard Development Organizations.
-Objects Produced by Vendors or individuals  | 10241 – 32768   | [View]() / [Register]()   | Objects defined by a vendor or individual such an object may be either private (no DDF or Specification made available) or public.
-Resources                                   |  2048 - 32768    | [View]() / [Register](/Register_Reusable_Resources.md)  | Registered by an Object Specification, with the Resource ID assigned by OMNA. Defined in any Object specification. Resources from thisResource ID range can be re-used in any Object.
+Objects Produced by 3rd Party SDOs          | 2048 – 10240    | [View](https://openmobilealliance.github.io/OMNA/LwM2M/LwM2MRegistry.html) / [Register](/Register_Other_SDO_Objects.md)             | Objects defined by a 3rd party SDO, Standard Development Organizations.
+Objects Produced by Vendors or individuals  | 10241 – 32768   | [View](https://openmobilealliance.github.io/OMNA/LwM2M/LwM2MRegistry.html) / [Register]()   | Objects defined by a vendor or individual such an object may be either private (no DDF or Specification made available) or public.
+Resources                                   |  2048 - 32768    | [View](https://openmobilealliance.github.io/OMNA/LwM2M/LwM2MRegistry.html) / [Register](/Register_Reusable_Resources.md)  | Registered by an Object Specification, with the Resource ID assigned by OMNA. Defined in any Object specification. Resources from thisResource ID range can be re-used in any Object.
 
 
